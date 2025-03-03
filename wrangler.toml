@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev-0415" # todo
+name = "jiedian" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 
@@ -8,4 +8,4 @@ main = "src/worker-vless.js"
 compatibility_date = "2024-04-15"
 
 [vars]
-# UUID = "example_dev_token"
+UUID = "024ac050-e28e-47b1-84f2-3ddb34bf8f23"
